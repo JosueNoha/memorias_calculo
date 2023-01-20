@@ -1,5 +1,0 @@
-ubicacion,AV. SIMPRE VIVA – AYUDA MUTUA Lt 03 Mz 03
-distrito,CUSCO
-provincia,CUSCO
-departamento,CUSCO
-b,5
